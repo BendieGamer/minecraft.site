@@ -21,4 +21,4 @@ function makecloak(replaceUrl = preferences.cloakUrl) {
 }
 
 
-makecloak("https://classroom.google.com/");
+makecloak("https://bendiegamerssite1-r4tgiwej7-bendiegamers-projects.vercel.app/BendieCraft1.8.html");
